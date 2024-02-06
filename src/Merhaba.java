@@ -3,6 +3,7 @@ public class Merhaba {
 
         System.out.println("Merhaba 1");
         System.out.println("Merhaba 2");
+        System.out.println("Merhaba 3");
 
 
 
